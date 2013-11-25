@@ -11,6 +11,10 @@ Because of Licensing issue, I will Just provide links to the Problem statement r
 Problem 1:
     Square Detector: Carried 20 marks
     URL: https://www.facebook.com/hackercup/problems.php?pid=318555664954399&round=598486203541358
+<<<<<<< HEAD
+=======
+    
+>>>>>>> ae1137f74028e67cd41514b73490a393ddcb31a3
     Approach:
     Example Input:
     
@@ -79,10 +83,13 @@ Problem 1:
 Problem 2:     
     Basketball Game: Carried 35 marks
     URL: https://www.facebook.com/hackercup/problems.php?pid=740733162607577&round=598486203541358
+<<<<<<< HEAD
 
     Approach:
     
     The Solution file is commented enough to highlight the approach 
+=======
+>>>>>>> ae1137f74028e67cd41514b73490a393ddcb31a3
     
 Problem 3:
     Tennison: Carried 45 marks
