@@ -11,6 +11,7 @@ Because of Licensing issue, I will Just provide links to the Problem statement r
 Problem 1:
     Square Detector: Carried 20 marks
     URL: https://www.facebook.com/hackercup/problems.php?pid=318555664954399&round=598486203541358
+    
     Approach:
     Example Input:
     
