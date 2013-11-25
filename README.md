@@ -88,3 +88,13 @@ Problem 3:
     Tennison: Carried 45 marks
     URL: https://www.facebook.com/hackercup/problems.php?pid=373965339404375&round=598486203541358
     
+    Approach:
+    
+    My inital approach uses Dynamic Programming but the approach shared by facebook is eaier to implement
+    as it uses recursion with memorization. The Facebook page 
+    URL :https://www.facebook.com/notes/facebook-hacker-cup/2014-qualification-round-solutions/775180192497884
+    has a wonderful explanation of the approach. I have two implementation in this branch.
+    1. Tennison.py: The one I submitted using DP
+    2. Tennsion_FB_Version.py: Based on the approach shared by FB
+
+    
